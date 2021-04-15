@@ -1,2 +1,2 @@
 # teste_item8
-Esse repositório conta com a resolução dos 3 problemas apresentados separadamente em cada arquivo.
+This repository presents the solution for the 3 problems of question 8.
